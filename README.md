@@ -1,4 +1,4 @@
-# @ The Zoo Ice Cream Parlour
+# The Zoo Ice Cream Parlour
 
 Tools used:
 * Intellij IDEA, SpringBoot initializer, Java 11, Maven 4
